@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Fabiana!
+
+- 😄 Economist from University of São Paulo and research assistant
+- 🌱 Here, you will find some of my personal projects
+- ✨ I'm always interested in learning more about data science 
+- 📫 Reach me at fmartins@gmail.com or fabianamartins@usp.br 
+
 <!--
 **fabianamartinss/fabianamartinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
